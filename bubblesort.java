@@ -1,3 +1,5 @@
+
+
 import java.lang.System;
 import java.util.Scanner;
 import java.util.Arrays;
@@ -32,8 +34,6 @@ public class bubblesort
         return arr;
     }
 
-}
-
-    
+} 
 
 
