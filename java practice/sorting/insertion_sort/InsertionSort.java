@@ -2,7 +2,7 @@ import java.lang.System;
 import java.util.Scanner;
 import java.util.Arrays;
  
-public class bubblesort
+public class insertion
 {
     public static void main(String[] args) 
     {
